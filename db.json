@@ -1,0 +1,16 @@
+{
+  "users": [
+    { "id": 1, "name": "Youssef Hesham", "email": "youssef@example.com", "role": "admin" },
+    { "id": 2, "name": "Ali Ahmed", "email": "ali@example.com", "role": "user" },
+    { "id": 3, "name": "Sara Mohamed", "email": "sara@example.com", "role": "user" }
+  ],
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 15000, "inStock": true },
+    { "id": 2, "name": "Mobile Phone", "price": 8000, "inStock": false },
+    { "id": 3, "name": "Headphones", "price": 1200, "inStock": true }
+  ],
+  "orders": [
+    { "id": 1, "userId": 2, "productId": 1, "status": "pending" },
+    { "id": 2, "userId": 3, "productId": 3, "status": "shipped" }
+  ]
+}
