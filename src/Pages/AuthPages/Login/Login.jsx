@@ -54,7 +54,7 @@ export default function Login() {
         <img src={registerImg} className='w-[300px]' alt="" />
     </div>
 
-    <div  className='w-[90%] lg:w-[40%] py-10 px-12 lg:border-2 lg:border-[#1ebbcc55] rounded-lg '>
+    <div  className='w-[90%] lg:w-[40%] py-10 lg:px-12 px-5 lg:border-2 lg:border-[#1ebbcc55] rounded-lg '>
         <h1 className='text-black font-bold text-2xl text-center'>Sign Up</h1>
 
        
