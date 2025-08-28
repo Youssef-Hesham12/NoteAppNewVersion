@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react'
-import registerImg from "../../../assets/Mobile login-bro.svg"
+import registerImg from "../../../assets/Authentication-bro.svg"
 import { Link, Navigate, useNavigate } from 'react-router'
 import { useForm } from 'react-hook-form'
 
